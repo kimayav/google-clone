@@ -1,11 +1,11 @@
 .foot {
-  background-color: #f2f2f2;
-  color: #000000;
-  opacity: 54%;
+  background-color: #131313;
+  color: #ffffff;
+  opacity: 80%;
   font-size: 15px;
   text-align: start;
   width: 100%;
-  min-height: 14vh;
+  min-height: 10vh;
   padding: 5px;
 }
 .foot div {

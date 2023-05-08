@@ -1,5 +1,5 @@
 import React from "react";
-import Image from "../../Assets/google-logo.png";
+// import Image from "../../Assets/google-logo.png";
 import Classes from "./Home.module.css";
 import AppsIcon from "@material-ui/icons/Apps";
 import { Avatar } from "@material-ui/core";
@@ -16,7 +16,7 @@ function Home() {
         <Avatar className={Classes.Avatar} />
       </div>
       <div className={Classes.logo}>
-        <img src={Image} alt="google logo" />
+        <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_272x92dp.png" alt="google logo" />
       </div>
       <SearchBar />
       <div className={Classes.home_box + " flex"}>

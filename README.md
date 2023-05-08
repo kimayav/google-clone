@@ -1,5 +1,14 @@
-<center>
+# Google Clone
 
-<img src="./google.png" alt="amazon Poster"/>
+Clone of the search engine Google using ReactJS.
 
-</center>
+
+
+## Installation
+
+```bash
+git clone https://github.com/kimayav/google-clone
+npm i
+npm start
+```
+
